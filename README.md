@@ -21,14 +21,24 @@ Zum Ausführen einfach die Windows-Anwendung doppelklicken und innerhlab weniger
 
 ENG: Crazy Pong is a Pong-like game for 2 Players. While it works a lot like Pong, the ball reflection is random and unpredictable, thus making the game a lot more fun.
 Controls:
-              ESC : exit application
-            SPACE : pause game 
-              W/S : up/down Player 1 (left)
-ArrowUp/ArrowDown : up/down Player 2 (rightt)
+
+ESC : exit application
+
+SPACE : pause game 
+
+W/S : up/down Player 1 (left)
+
+ArrowUp/ArrowDown : up/down Player 2 (right)
+
 
 DEU: Crazy Pong ist ein Spiel wie Pong, aber mit einem Kniff: Der Ball reflektiert nicht wie gewohnt, sondern mit viel Zufallsanteil. Dadurch wird das Spiel unvorhersehbar und viel lustiger
 Steuerung:
-                   ESC : Anwendung schließen
-             Leertaste : Spiel Pausieren 
-                   W/S : hoch/runter Spieler 1 (links)
+
+ESC : Anwendung schließen
+
+Leertaste : Spiel Pausieren 
+
+W/S : hoch/runter Spieler 1 (links)
+
 Pfeil oben/Pfeil inten : hoch/runter Spieler 2 (rechts)
+
