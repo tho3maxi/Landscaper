@@ -1,7 +1,7 @@
 # General
 
 ENG: I made these programs for private use. Crazy Pong is my first attempt on openGL. The Landscaper is a useful tool for creating basic layout landscapes for 3D art, render, animation. I plan to create more tools and then I may have to split up the code to several headers.
-As of now, I only created one code file to manage my folders more easily. I did chose not to include any features that would extend the application to need libaries. I have tested both applications on several Windoes 7 and Windows 10 Computers, they ran without problems.
+As of now, I only created one code file to manage my folders more easily. I chose not to include any features that would extend the application to need libaries. I have tested both applications on several Windows 7 and Windows 10 Computers, they ran without problems.
 
 DEU: Beide Programme habe ich für meinen privaten Gebrauch geschrieben. Crazy Pong ist mein erster Versuch an openGL. Der Landscaper ist für mich ein nütliches tool, um das Layout einer Landschaft, ohne langes editieren, für 3D Grafik, Render und Animationen zu bekommen. Ich möchte dieses Programm erweiters, um mehr Einstellungen und Funktionen erweitern. Dazu werde ich den Code in mehr Dateien aufteilen.
 Für's Erste habe ich eine einzige Datei mit dem ganzen Code erstellt, um in meinen Ordnern die Übersicht zu behalten. Ich habe mich bewusste gegen den Gebrauch von Funktionen entschieden, die dazu führen, dass die Anwendung zusätzliche Libaries benötigt.
