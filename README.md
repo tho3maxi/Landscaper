@@ -40,5 +40,5 @@ Leertaste : Spiel Pausieren
 
 W/S : hoch/runter Spieler 1 (links)
 
-Pfeil oben/Pfeil inten : hoch/runter Spieler 2 (rechts)
+Pfeil oben/Pfeil unten : hoch/runter Spieler 2 (rechts)
 
